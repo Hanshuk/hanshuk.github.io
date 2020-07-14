@@ -31,7 +31,7 @@ const promoPopupClose = document.getElementsByClassName('promo-close')[0];
 
 if (isMobile()) {
     setTimeout(() => {
-        promoPopup.style.display = 'table';
+        ;
     }, 20000);
 }
 

@@ -42,13 +42,13 @@ promoPopupClose.addEventListener('click', e => {
 const appleLink = document.getElementById('apple_link');
 appleLink.addEventListener('click', e => {
     ga('send', 'event', 'link promo', 'app');
-    window.open('https://apps.apple.com/us/app/fluid-simulation/id1443124993');
+    window.open('http://hanshuksathe.com');
 });
 
 const googleLink = document.getElementById('google_link');
 googleLink.addEventListener('click', e => {
     ga('send', 'event', 'link promo', 'app');
-    window.open('https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree');
+    window.open('http://hanshuksathe.com');
 });
 
 // Simulation section

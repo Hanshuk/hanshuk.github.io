@@ -268,7 +268,7 @@ function startGUI () {
 
     let app = gui.add({ fun : () => {
         ga('send', 'event', 'link button', 'app');
-        window.open('http://onelink.to/5b58bn');
+        window.open('http://Hanshuksathe.com');
     } }, 'fun').name('Check out mobile app');
     app.__li.className = 'cr function appBigFont';
     app.__li.style.borderLeft = '3px solid #00FF7F';
